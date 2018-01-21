@@ -1,0 +1,10 @@
+#input files
+flickr8k-64/
+#output files
+output/
+old/
+#checkpoints
+pixelcnn/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.vscode/

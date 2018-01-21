@@ -46,3 +46,7 @@ Select an image from the dataset, zero out the lower half and use the trained mo
 import pixelcnn_flickr8k
 pixelcnn_flickr8k.generate()
 ```
+
+## Author
+- Author: [@pkmital](https://github.com/pkmital)
+- Contributor: [@hollygrimm](https://github.com/hollygrimm)
